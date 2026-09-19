@@ -1,7 +1,7 @@
 # roadmap_visualizer.py - VERSION CORRIGÉE (Quiz toujours unique)
 """
 Module de visualisation de roadmap et quiz interactifs
-CORRECTION: Chaque quiz a maintenant un ID unique basé sur le timestamp
+
 """
 
 import plotly.graph_objects as go
