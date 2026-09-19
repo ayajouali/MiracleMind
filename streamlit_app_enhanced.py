@@ -1,4 +1,4 @@
-# streamlit_app_enhanced.py - VERSION CORRIGÉE
+# streamlit_app_enhanced.py
 import streamlit as st
 import requests
 import plotly.graph_objects as go
